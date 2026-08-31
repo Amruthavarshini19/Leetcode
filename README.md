@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0372-super-pow](https://github.com/Amruthavarshini19/Leetcode/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amruthavarshini19/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,16 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amruthavarshini19/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Hash Table
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amruthavarshini19/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Design
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amruthavarshini19/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amruthavarshini19/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
