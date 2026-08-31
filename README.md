@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Amruthavarshini19/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/Amruthavarshini19/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0445-add-two-numbers-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Amruthavarshini19/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Amruthavarshini19/Leetcode/tree/master/0391-perfect-rectangle) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
