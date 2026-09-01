@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Amruthavarshini19/Leetcode/tree/master/0057-insert-interval) |
 | [0137-single-number-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0137-single-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amruthavarshini19/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
