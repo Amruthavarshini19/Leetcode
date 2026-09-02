@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Amruthavarshini19/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0853-car-fleet](https://github.com/Amruthavarshini19/Leetcode/tree/master/0853-car-fleet) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Amruthavarshini19/Leetcode/tree/master/0274-h-index) |
 | [0853-car-fleet](https://github.com/Amruthavarshini19/Leetcode/tree/master/0853-car-fleet) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
 ## Counting Sort
 |  |
 | ------- |
@@ -105,4 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
