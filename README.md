@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Amruthavarshini19/Leetcode/tree/master/0853-car-fleet) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Amruthavarshini19/Leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Amruthavarshini19/Leetcode/tree/master/0853-car-fleet) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
+| [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Amruthavarshini19/Leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 ## Counting Sort
 |  |
 | ------- |
