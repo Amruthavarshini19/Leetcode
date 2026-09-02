@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amruthavarshini19/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amruthavarshini19/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amruthavarshini19/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amruthavarshini19/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Counting Sort
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amruthavarshini19/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amruthavarshini19/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
