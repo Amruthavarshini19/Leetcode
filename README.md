@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Amruthavarshini19/Leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amruthavarshini19/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Amruthavarshini19/Leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amruthavarshini19/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Counting Sort
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amruthavarshini19/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
