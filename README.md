@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amruthavarshini19/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amruthavarshini19/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Amruthavarshini19/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amruthavarshini19/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amruthavarshini19/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Amruthavarshini19/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Counting Sort
 |  |
 | ------- |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
+## Binary Search
+|  |
+| ------- |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Amruthavarshini19/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+## Sliding Window
+|  |
+| ------- |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Amruthavarshini19/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 <!---LeetCode Topics End-->
