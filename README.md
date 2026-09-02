@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/Amruthavarshini19/Leetcode/tree/master/0057-insert-interval) |
 | [0137-single-number-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Amruthavarshini19/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amruthavarshini19/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Amruthavarshini19/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0260-single-number-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0260-single-number-iii) |
 ## Sorting
 |  |
 | ------- |
