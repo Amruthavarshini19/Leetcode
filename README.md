@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Amruthavarshini19/Leetcode/tree/master/1333-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Amruthavarshini19/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1854-maximum-population-year](https://github.com/Amruthavarshini19/Leetcode/tree/master/1854-maximum-population-year) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Amruthavarshini19/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Amruthavarshini19/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Amruthavarshini19/Leetcode/tree/master/0274-h-index) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1854-maximum-population-year](https://github.com/Amruthavarshini19/Leetcode/tree/master/1854-maximum-population-year) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
+| [1854-maximum-population-year](https://github.com/Amruthavarshini19/Leetcode/tree/master/1854-maximum-population-year) |
 ## Binary Search
 |  |
 | ------- |
