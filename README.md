@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Amruthavarshini19/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Amruthavarshini19/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0763-partition-labels](https://github.com/Amruthavarshini19/Leetcode/tree/master/0763-partition-labels) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Amruthavarshini19/Leetcode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0763-partition-labels](https://github.com/Amruthavarshini19/Leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Amruthavarshini19/Leetcode/tree/master/0860-lemonade-change) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -167,8 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/Amruthavarshini19/Leetcode/tree/master/0763-partition-labels) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
+## String
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/Amruthavarshini19/Leetcode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
