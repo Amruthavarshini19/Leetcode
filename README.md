@@ -202,4 +202,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Amruthavarshini19/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+## Tree
+|  |
+| ------- |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Amruthavarshini19/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+## Depth-First Search
+|  |
+| ------- |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Amruthavarshini19/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+## Binary Tree
+|  |
+| ------- |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Amruthavarshini19/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 <!---LeetCode Topics End-->
