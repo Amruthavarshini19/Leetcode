@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Amruthavarshini19/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Amruthavarshini19/Leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/Amruthavarshini19/Leetcode/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/Amruthavarshini19/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0260-single-number-iii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Amruthavarshini19/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Amruthavarshini19/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0260-single-number-iii) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Amruthavarshini19/Leetcode/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Amruthavarshini19/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
