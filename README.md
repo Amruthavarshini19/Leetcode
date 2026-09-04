@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/Amruthavarshini19/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amruthavarshini19/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0853-car-fleet](https://github.com/Amruthavarshini19/Leetcode/tree/master/0853-car-fleet) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Amruthavarshini19/Leetcode/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amruthavarshini19/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0853-car-fleet](https://github.com/Amruthavarshini19/Leetcode/tree/master/0853-car-fleet) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Amruthavarshini19/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Amruthavarshini19/Leetcode/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amruthavarshini19/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0763-partition-labels](https://github.com/Amruthavarshini19/Leetcode/tree/master/0763-partition-labels) |
