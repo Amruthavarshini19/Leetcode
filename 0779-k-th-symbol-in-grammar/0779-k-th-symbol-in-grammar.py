@@ -1,0 +1,9 @@
+class Solution(object):
+    def kthGrammar(self, n, k):
+        if n == 1:
+            return 0
+        half = 2 ** (n - 2)
+        if k <= half:
+            return self.kthGrammar(n - 1, k)
+        return 1 - self.kthGrammar(n - 1, k - half)
+        
