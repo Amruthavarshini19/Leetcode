@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/Amruthavarshini19/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0445-add-two-numbers-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Amruthavarshini19/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Amruthavarshini19/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0260-single-number-iii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Amruthavarshini19/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Sorting
 |  |
 | ------- |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Amruthavarshini19/Leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Amruthavarshini19/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Amruthavarshini19/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
