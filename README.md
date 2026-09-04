@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/Amruthavarshini19/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0853-car-fleet](https://github.com/Amruthavarshini19/Leetcode/tree/master/0853-car-fleet) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Amruthavarshini19/Leetcode/tree/master/0274-h-index) |
+| [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0853-car-fleet](https://github.com/Amruthavarshini19/Leetcode/tree/master/0853-car-fleet) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Amruthavarshini19/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Amruthavarshini19/Leetcode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
