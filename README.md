@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0372-super-pow](https://github.com/Amruthavarshini19/Leetcode/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amruthavarshini19/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Amruthavarshini19/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Amruthavarshini19/Leetcode/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/Amruthavarshini19/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0746-min-cost-climbing-stairs](https://github.com/Amruthavarshini19/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Amruthavarshini19/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Amruthavarshini19/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
@@ -217,9 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Amruthavarshini19/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Memoization
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Amruthavarshini19/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
