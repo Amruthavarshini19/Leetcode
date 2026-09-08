@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Amruthavarshini19/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0763-partition-labels](https://github.com/Amruthavarshini19/Leetcode/tree/master/0763-partition-labels) |
+| [1143-longest-common-subsequence](https://github.com/Amruthavarshini19/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/Amruthavarshini19/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Amruthavarshini19/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Amruthavarshini19/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Amruthavarshini19/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
