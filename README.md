@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Amruthavarshini19/Leetcode/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/Amruthavarshini19/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0137-single-number-ii) |
+| [0198-house-robber](https://github.com/Amruthavarshini19/Leetcode/tree/master/0198-house-robber) |
 | [0260-single-number-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Amruthavarshini19/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amruthavarshini19/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Amruthavarshini19/Leetcode/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/Amruthavarshini19/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Amruthavarshini19/Leetcode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Amruthavarshini19/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Amruthavarshini19/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
