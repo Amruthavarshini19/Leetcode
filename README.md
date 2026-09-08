@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amruthavarshini19/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Amruthavarshini19/Leetcode/tree/master/0455-assign-cookies) |
 | [0630-course-schedule-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Amruthavarshini19/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Amruthavarshini19/Leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Amruthavarshini19/Leetcode/tree/master/0860-lemonade-change) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Amruthavarshini19/Leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Amruthavarshini19/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/Amruthavarshini19/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Amruthavarshini19/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
