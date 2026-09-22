@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0226-invert-binary-tree](https://github.com/Amruthavarshini19/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0814-binary-tree-pruning](https://github.com/Amruthavarshini19/Leetcode/tree/master/0814-binary-tree-pruning) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Amruthavarshini19/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0814-binary-tree-pruning](https://github.com/Amruthavarshini19/Leetcode/tree/master/0814-binary-tree-pruning) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0226-invert-binary-tree](https://github.com/Amruthavarshini19/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0814-binary-tree-pruning](https://github.com/Amruthavarshini19/Leetcode/tree/master/0814-binary-tree-pruning) |
@@ -265,5 +268,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Amruthavarshini19/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
