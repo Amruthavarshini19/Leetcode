@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0814-binary-tree-pruning](https://github.com/Amruthavarshini19/Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0886-possible-bipartition](https://github.com/Amruthavarshini19/Leetcode/tree/master/0886-possible-bipartition) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Amruthavarshini19/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
@@ -270,4 +271,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Amruthavarshini19/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0886-possible-bipartition](https://github.com/Amruthavarshini19/Leetcode/tree/master/0886-possible-bipartition) |
+## Union-Find
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Amruthavarshini19/Leetcode/tree/master/0886-possible-bipartition) |
+## Graph Theory
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Amruthavarshini19/Leetcode/tree/master/0886-possible-bipartition) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Amruthavarshini19/Leetcode/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Amruthavarshini19/Leetcode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
