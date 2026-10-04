@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amruthavarshini19/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1054-distant-barcodes](https://github.com/Amruthavarshini19/Leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/Amruthavarshini19/Leetcode/tree/master/1094-car-pooling) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Amruthavarshini19/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Amruthavarshini19/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0629-k-inverse-pairs-array](https://github.com/Amruthavarshini19/Leetcode/tree/master/0629-k-inverse-pairs-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/Amruthavarshini19/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amruthavarshini19/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Amruthavarshini19/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Amruthavarshini19/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Amruthavarshini19/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Amruthavarshini19/Leetcode/tree/master/0337-house-robber-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amruthavarshini19/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Amruthavarshini19/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0886-possible-bipartition](https://github.com/Amruthavarshini19/Leetcode/tree/master/0886-possible-bipartition) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Amruthavarshini19/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Amruthavarshini19/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amruthavarshini19/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amruthavarshini19/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/Amruthavarshini19/Leetcode/tree/master/0886-possible-bipartition) |
 ## Union-Find
 |  |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amruthavarshini19/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0886-possible-bipartition](https://github.com/Amruthavarshini19/Leetcode/tree/master/0886-possible-bipartition) |
 ## Graph Coloring
 |  |
@@ -288,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/Amruthavarshini19/Leetcode/tree/master/0886-possible-bipartition) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Amruthavarshini19/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
